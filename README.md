@@ -16,7 +16,7 @@ Team Notion : https://amazing-duckling-f20.notion.site/e4dd783e05db4d8b8ae2cce13
 ## 커리큘럼
 ![image](https://user-images.githubusercontent.com/69462995/206221376-8e56d081-d34f-4021-a3c8-cf418df74bbf.png)
 <br>
-캐글 커리큘럼 : https://goodday-lab.tistory.com/4
+참고 : https://goodday-lab.tistory.com/4
 
 
 ## 📌 진행방식
